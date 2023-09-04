@@ -8,4 +8,3 @@
 - 💬 Ask me about ... (Awkwardly, I know nothing about CS/SE/AI)
 - 📫 How to reach me: QQ:3056063115  WeChat:z3056063115
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promin3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
