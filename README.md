@@ -8,4 +8,3 @@
 - 📫 How to reach me: QQ:3056063115  WeChat:z3056063115
 <br>
 
-![Promin3's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Promin3&layout=compact&hide_border=true&langs_count=10)
