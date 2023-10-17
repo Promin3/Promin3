@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🧑🏻‍💻 I‘m a junior from the School of Computer Science, Wuhan University
-- 🌱 I’m currently learning compiler & DB kernel & OS
+- 🌱 I’m currently learning OS & compiler
 - 🤔 I’m looking for help with Algorithm
 - 📝 Blog : <https://promin3.github.io>
 - 💬 Ask me about ... (Awkwardly, I know nothing about CS/SE/AI)
