@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🧑🏻‍💻 I‘m a junior from the School of Computer Science, Wuhan University
-- 🌱 I’m currently learning Rust & OS & compiler
-- 🤔 I’m looking for help with Algorithm
+- 🌱 I’m currently learning  OS & DB & rust
 - 📝 Blog : <https://promin3.github.io>
 - 💬 Ask me about ... (Awkwardly, I know nothing about CS/SE/AI)
 - 📫 How to reach me: QQ:3056063115  WeChat:z3056063115
