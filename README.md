@@ -10,8 +10,8 @@
 <br>
 
 
-<div>
+<div align="center">
   <a href="https://github.com/Promin3">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promin3&layout=donut-vertical&theme=dark" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Promin3&layout=donut-vertical&theme=dark" alt="Top Languages">
   </a>
 </div>
