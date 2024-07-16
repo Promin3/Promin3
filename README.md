@@ -5,7 +5,10 @@
 - 📝 Blog : <https://promin3.github.io>
 - 💬 Ask me about ... (Awkwardly, I know nothing about CS/SE/AI)
 - 📫 How to reach me: QQ:3056063115  WeChat:z3056063115
+- 🛠️ Attempting to write my OS（xv6、uCore）、DB（bustub、miniOB）、Compiler（pku-minic）、CPU（ysyx) in final year @WHU （whu-projectN）
+- 💦 Finish nemu、DLsys、6.824、cs144 if time permits...
 <br>
+
 
 <div>
   <a href="https://github.com/Promin3">
